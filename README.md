@@ -8,7 +8,8 @@ UI and Web development enthusiast, working on the front-end with **React**.
 - 💬 Ask me about javascript!?
 - 📫 How to reach me: dev.joseneto@gmail.com
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djoseneto&show_icons=true&theme=dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoseneto&theme=dark&hide=c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=djoseneto&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djoseneto&theme=tokyonight&hide=c%2B%2B,c)](https://github.com/anuraghazra/github-readme-stats)
 
 Reach me out 👇
 
