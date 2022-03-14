@@ -2,6 +2,8 @@
 
 My name is Jose Neto 🇧🇷
 
+UI and Web development enthusiast, working on the front-end with **React**.
+
 - 🌱 I'm currently learning advanced concepts of **javascript** and **typescript**, I'm also looking to improve my **English** 
 - 💬 Ask me about javascript!?
 - 📫 How to reach me: dev.joseneto@gmail.com
